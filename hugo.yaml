@@ -4,6 +4,10 @@ title: cuneiform @ jadobeid.com
 pagination.pagerSize: 5
 theme: PaperMod
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
